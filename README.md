@@ -4,9 +4,9 @@ Block calls or messages from a certain phone number, rewritten with PrivacySecur
 This app is on the basis of Call_SMS_Filter: https://github.com/bhavyahmehta/CALL-SMS-Filter.
 
 <div align=center>
-  <img width="280" height="460" src="https://github.com/xinyu1118/Call_SMS_Blocker/blob/master/images/Phone-2.png" />
+  <img width="280" height="480" src="https://github.com/xinyu1118/Call_SMS_Blocker/blob/master/images/Phone-2.png" />
 </div>
 
 <div align=center>
-  <img width="280" height="460" src="https://github.com/xinyu1118/Call_SMS_Blocker/blob/master/images/SMS-2.png" />
+  <img width="280" height="480" src="https://github.com/xinyu1118/Call_SMS_Blocker/blob/master/images/SMS-2.png" />
 </div>
